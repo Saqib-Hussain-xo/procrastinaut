@@ -3,7 +3,7 @@
 Thumbs.db
 Desktop.ini
 
-# Editor and IDE files
+# Editor files
 .vscode/
 .idea/
 *.swp
@@ -13,11 +13,3 @@ Desktop.ini
 .env
 .env.*
 *.local
-
-# Dependencies and build outputs
-node_modules/
-dist/
-build/
-coverage/
-.tmp/
-.cache/
